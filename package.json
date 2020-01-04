@@ -1,0 +1,31 @@
+{
+  "name": "front_end_web_development_course_braude",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "datatables.net": "^1.10.19",
+    "datatables.net-dt": "^1.10.19",
+    "express": "^4.17.1",
+    "generate-password": "^1.4.2",
+    "nodemailer": "^6.2.1",
+    "pg": "^7.11.0",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShayAxelrod/Front_End_Web_Development_Course_Braude.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShayAxelrod/Front_End_Web_Development_Course_Braude/issues"
+  },
+  "homepage": "https://github.com/ShayAxelrod/Front_End_Web_Development_Course_Braude#readme"
+}
