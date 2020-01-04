@@ -1,5 +1,5 @@
 {
-  "name": "front_end_web_development_course_braude",
+  "name": "client_server_proj",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShayAxelrod/Front_End_Web_Development_Course_Braude.git"
+    "url": "git+https://github.com/barkorkos/client-serverProj.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShayAxelrod/Front_End_Web_Development_Course_Braude/issues"
+    "url": "https://github.com/barkorkos/client-serverProj.git"
   },
-  "homepage": "https://github.com/ShayAxelrod/Front_End_Web_Development_Course_Braude#readme"
+  "homepage": "https://github.com/barkorkos/client-serverProj.git#readme"
 }
